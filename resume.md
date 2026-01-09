@@ -3,20 +3,20 @@
 Seattle, WA  
 
 
-[Website:] (https://saidhealer.github.io) 
+**Website:** https://saidhealer.github.io
  
-[GitHub](https://github.com/saidhealer) 
+**GitHub:** https://github.com/saidhealer
 
 ---
 
-## Professional Summary
+## **Professional Summary**
 I am a University of Washington student interested in digital geographies, web mapping, and the social implications of geospatial technologies. This online resume is built using Markdown and published with GitHub Pages as part of GEOG 458.
 
 > “Digital maps are not neutral — they shape how people understand space, power, and inequality.”
 
 ---
 
-## Education
+## **Education**
 ### University of Washington – Seattle  
 **Coursework:** Digital Geographies (GEOG 458)  
 **Focus Areas:**  
@@ -26,7 +26,7 @@ I am a University of Washington student interested in digital geographies, web m
 
 ---
 
-## Technical Skills
+## **Technical Skills**
 ### Programming & Tools
 - Git & GitHub (clone, commit, push, GitHub Pages)
 - Markdown
@@ -34,14 +34,14 @@ I am a University of Washington student interested in digital geographies, web m
 - Mapbox (introductory)
 - QGIS (introductory)
 
-### Digital Geography Skills
+### **Digital Geography Skills**
 - Web-based mapping
 - Spatial data visualization
 - Critical analysis of maps and data
 
 ---
 
-## Experience
+## **Experience**
 ### Program & Community Support
 - Assisted with organizing community-based programs and events  
 - Supported coordination, documentation, and reporting  
@@ -49,7 +49,7 @@ I am a University of Washington student interested in digital geographies, web m
 
 ---
 
-## Projects
+## **Projects**
 1. **GitHub Pages Website (GEOG 458 Lab 1)**  
    - Created a personal website using GitHub Pages  
    - Published a Markdown-based resume  
@@ -62,7 +62,7 @@ I am a University of Washington student interested in digital geographies, web m
 
 ---
 
-## Links & Resources
+## **Links & Resources**
 - GitHub Profile: https://github.com/saidhealer  
 - Course Repository (starred): https://github.com/jakobzhao/geog458  
 - Start Bootstrap Templates: https://startbootstrap.com  
@@ -70,7 +70,7 @@ I am a University of Washington student interested in digital geographies, web m
 
 ---
 
-## Image
+## **Image**
 ![University of Washington campus](https://artsci.washington.edu/sites/default/files/2022-02/About-main1.1.jpg)
 
 **Image source:** University of Washington College of Arts & Sciences website. Used to represent my status as a UW student.
