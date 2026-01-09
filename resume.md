@@ -3,9 +3,9 @@
 Seattle, WA  
 
 
-**Website:** https://saidhealer.github.io
- 
-**GitHub:** https://github.com/saidhealer
+Website: [https://saidhealer.github.io](https://saidhealer.github.io)  
+GitHub: [https://github.com/saidhealer](https://github.com/saidhealer)
+
 
 ---
 
