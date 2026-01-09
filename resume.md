@@ -3,8 +3,9 @@
 Seattle, WA  
 
 
-🌐 Website: https://saidhealer.github.io  
-💻 GitHub: https://github.com/saidhealer  
+[Website:] (https://saidhealer.github.io) 
+ 
+[GitHub](https://github.com/saidhealer) 
 
 ---
 
@@ -72,4 +73,4 @@ I am a University of Washington student interested in digital geographies, web m
 ## Image
 ![University of Washington campus](https://artsci.washington.edu/sites/default/files/2022-02/About-main1.1.jpg)
 
-**Image source:** University of Washington College of Arts & Sciences website. Used to represent my status as a UW student.*
+**Image source:** University of Washington College of Arts & Sciences website. Used to represent my status as a UW student.
