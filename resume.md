@@ -54,7 +54,7 @@ I am a University of Washington student interested in digital geographies, web m
    - Created a personal website using GitHub Pages  
    - Published a Markdown-based resume  
    - Website: [https://saidhealer.github.io](https://saidhealer.github.io)  
-   - Resume: [https://saidhealer.github.io/resume](https://saidhealer.github.io)  
+   - Resume: [https://saidhealer.github.io/resume](https://saidhealer.github.io/resume)  
 
 2. **Digital Geographies Coursework**
    - Web data collection and visualization (upcoming)
