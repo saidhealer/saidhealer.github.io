@@ -53,8 +53,8 @@ I am a University of Washington student interested in digital geographies, web m
 1. **GitHub Pages Website (GEOG 458 Lab 1)**  
    - Created a personal website using GitHub Pages  
    - Published a Markdown-based resume  
-   - Website: https://saidhealer.github.io  
-   - Resume: https://saidhealer.github.io/resume  
+   - Website: [https://saidhealer.github.io] (https://saidhealer.github.io)  
+   - Resume: [https://saidhealer.github.io/resume] (https://saidhealer.github.io)  
 
 2. **Digital Geographies Coursework**
    - Web data collection and visualization (upcoming)
@@ -63,10 +63,10 @@ I am a University of Washington student interested in digital geographies, web m
 ---
 
 ## **Links & Resources**
-- GitHub Profile: https://github.com/saidhealer  
-- Course Repository (starred): https://github.com/jakobzhao/geog458  
-- Start Bootstrap Templates: https://startbootstrap.com  
-- Markdown Guide: https://www.markdownguide.org  
+- GitHub Profile: [https://github.com/saidhealer] (https://saidhealer.github.io)  
+- Course Repository (starred): [https://github.com/jakobzhao/geog458](https://saidhealer.github.io)
+- Start Bootstrap Templates: [https://startbootstrap.com ](https://startbootstrap.com) 
+- Markdown Guide: [https://www.markdownguide.org](https://www.markdownguide.org) 
 
 ---
 
